@@ -502,6 +502,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
+- [OtaKit](https://otakit.app) `https://console.otakit.app/mcp`
+  [![OtaKit MCP connector](https://glama.ai/mcp/connectors/io.github.OtaKit/otakit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OtaKit/otakit)
+  🔐 - Ship over-the-air updates for Capacitor apps: publish releases with approval, control rollouts, read health, revert.
 - [PartReel](https://partreel.com) `https://mcp.partreel.com/mcp`
   🔓 - Search and fetch 21k+ verified KiCad parts with symbol, footprint and 3D model for PCB design; CC-BY-4.0.
 - [Postman](https://postman.com) `https://mcp.postman.com/mcp`
